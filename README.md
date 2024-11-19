@@ -1,4 +1,4 @@
-# fFuzzy Logic
+# Fuzzy Logic
 
 Aplikasi ini memiliki fungsi untuk menentukan harga berdasarkan jarak, luas villa dan data yang dipilih
 berikut tampilan website:
